@@ -1,5 +1,7 @@
 # email_app/fake_api.py
-# Simulates external email API responses for testing purposes.
+# Author: Dessalegn Mequanint Yehuala
+# Date: June, 2025
+# Description: Simulates external email API responses for testing purposes.
 
 import uuid
 
