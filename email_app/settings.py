@@ -1,6 +1,5 @@
 # email_app/settings.py
 # Author: Dessalegn Mequanint Yehuala
-# Date: June, 2025
 # Description: Stores configuration constants for the email application.
 
 import os
