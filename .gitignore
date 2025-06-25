@@ -1,0 +1,17 @@
+# Python specific ignores
+venv/                  # Virtual environment directory
+__pycache__/           # Python compiled bytecode cache
+*.pyc                  # Compiled Python files (.pyc files)
+.Python                # Some virtual env setups might create this
+*.env                  # If you use a .env file for local environment variables
+
+# Jupyter Notebook ignores
+.ipynb_checkpoints/    # Jupyter's checkpoint files
+# *.ipynb              # UNCOMMENT THIS if you DO NOT want to commit your Jupyter notebooks
+                       # (e.g., if they have sensitive outputs or are just scratchpads).
+                       # For a portfolio, you *might* want to commit them to show your work.
+                       # If you do commit .ipynb, ensure no sensitive data is in their output!
+
+# IDE specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
