@@ -1,5 +1,7 @@
 # email_app/new/factory.py
-# Implements the Factory Design Pattern for email providers.
+# Author: Dessalegn Mequanint Yehuala
+# Date: June, 2025
+# Description: Implements the Factory Design Pattern for email providers.
 
 from email_app.new.base import BaseEmailProvider
 from email_app.new.sendgrid_provider import SendGridEmailProvider
