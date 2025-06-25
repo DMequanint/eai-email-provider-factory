@@ -1,6 +1,5 @@
 # email_app/new/sendgrid_provider.py
 # Author: Dessalegn Mequanint Yehuala
-# Date: January, 2025
 # Description: Concrete implementation for SendGrid Email Provider, now capable of real API calls.
 
 from email_app.new.base import BaseEmailProvider
