@@ -241,3 +241,8 @@ This project showcases proficiency in:
 * Build a simple command-line interface (CLI) using `argparse`.
 * Add more sophisticated email address validation (e.g., leveraging `idna` for full IDN support if not dependency-free).
 
+## Author
+
+**Dessalegn Mequanint Yehuala**
+* GitHub: https://github.com/DMequanint/eai-email-provider-factory/
+* LinkedIn: https://www.linkedin.com/in/dessalegn-mequanint-yehuala-a279277/
