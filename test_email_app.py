@@ -1,5 +1,7 @@
 # test_email_app.py
-# Pytest test suite to verify all functionalities of the email application.
+# Author: Dessalegn Mequanint Yehuala
+# Date: June, 2025
+# Description: Pytest test suite to verify all functionalities of the email application.
 
 import pytest
 import os # Import os for environment variables
