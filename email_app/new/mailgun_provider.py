@@ -1,6 +1,5 @@
 # email_app/new/mailgun_provider.py
 # Author: Dessalegn Mequanint Yehuala
-# Date: June, 2025
 # Description: Concrete implementation for Mailgun Email Provider, now capable of real API calls.
 
 from email_app.new.base import BaseEmailProvider
