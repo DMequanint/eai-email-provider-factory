@@ -1,5 +1,7 @@
 # email_app/errors.py
-# Defines custom exception types for the email application.
+# Author: Dessalegn Mequanint Yehuala
+# Date: June, 2025
+# DescriDefption: Dines custom exception types for the email application.
 
 class EmailError(Exception):
     """Base exception for email application errors."""
