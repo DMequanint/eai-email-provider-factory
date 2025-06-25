@@ -1,5 +1,7 @@
 # email_app/new/base.py
-# Defines the abstract base class for all email providers.
+# Author: Dessalegn Mequanint Yehuala
+# Date: June, 2025
+# Description: Defines the abstract base class for all email providers.
 
 from abc import ABC, abstractmethod
 from functools import wraps
